@@ -1,2 +1,3 @@
 this is test file by siva
 this is test file by siva
+There are a few common errors when using HTTPS with Git These errors usually indicate you have an old version of Git or you dont have access to the repository
